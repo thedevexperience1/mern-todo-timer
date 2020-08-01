@@ -2,12 +2,14 @@
 
 ### Overview
 
+Test
+
 [The Todo Timer](https://mern-todo-timer.herokuapp.com) is a pomodoro timer with a todo list and user auth using passport and JWTs. It was created to increase productivity by identifying work that needs to get done with a todo list, then using the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to accomplish it.
 
 It was built using MongoDB, Express.js, React, Redux, and Node.js.
 
-
 ### Configuration
+
 ```
 MongoDB 4.2.1
 Express 4.17.1
@@ -16,7 +18,6 @@ Node.js 13.0.1
 npm 6.12.0
 yarn 1.17.3
 ```
-
 
 ### Getting Started
 
@@ -34,11 +35,9 @@ yarn 1.17.3
 
 7. You're all set. You should be able to run the app locally!
 
-
 ### Deployment
 
 Deployment is handled via Heroku. Just commit your changes, merge to master, and run `git push heroku master`.
-
 
 ### Contact Information
 
